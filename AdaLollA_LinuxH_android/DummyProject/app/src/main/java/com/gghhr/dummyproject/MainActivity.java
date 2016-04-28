@@ -13,10 +13,9 @@ public class MainActivity extends AppCompatActivity {
 		int b = 2 * i;
     }
     
-<<<<<<< HEAD
     public void thisIsANewMethod() {
 		Log.d("debug", "called method");
     	int i = 0;
     }
->>>>>>> a7ee65bfef9f7333ac263f708f7c22f3dd6ff25f
+
 }
