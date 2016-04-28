@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     
     public void thisIsANewMethod() {
 		Log.d("debug", "called method");
-    	int i = 0;
+    	int i = 0, b = 1;
     }
 
 }
