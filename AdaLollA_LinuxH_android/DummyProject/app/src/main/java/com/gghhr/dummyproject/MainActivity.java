@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     public void thisIsANewMethod() {
 		Log.d("debug", "called method");
     	int i = 0, b = 1;
+		while(i < Math.sqr(b,2)){
     }
 
 }
